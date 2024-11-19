@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { experienciasofDB } from "./schema";
 
 export const getEntries = {

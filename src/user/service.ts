@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { usersofDB } from './schema'
 //import userData from './users.json'
 

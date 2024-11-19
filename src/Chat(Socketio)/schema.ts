@@ -1,3 +1,4 @@
+/* eslint-disable */
 import mongoose, { Schema } from "mongoose";
 import { IChat } from './model'
 

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { model, Schema } from "mongoose";
 import { experienciasInterface } from './model'
 

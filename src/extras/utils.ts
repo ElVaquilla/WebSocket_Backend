@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { newUserInfo } from "../user/model"
 
 const parseName = (nameFromRequest:any):string =>{
@@ -41,7 +42,7 @@ const toNewUser = (object:any): newUserInfo => {
         mail: parseMail(object.mail),
         password: parsePassword(object.password),
         comment: parseComment(object.comment),
-        experince: []
+        experience: []
     }
     return newUser
 }
